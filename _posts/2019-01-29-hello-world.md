@@ -1,8 +1,8 @@
 ---
-title: "Welcome to mkw!"
+title: "Welcome to our github!"
 published: true
 ---
 
-**Hello world**, this is our first Jekyll blog post.
+**Hello all**, this is our first Jekyll github blog post.
 
 We hope you like it!
